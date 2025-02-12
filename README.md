@@ -1,14 +1,14 @@
 [![made Language {generic badge}](https://img.shields.io/badge/Made%20with-Python-8A2BE2)](https://github.com/alanmugiwara)
-[![create date](https://badges.pufler.dev/created/alanmugiwara/metedanca-tube-downlaoder?color=8A2BE2)](https://github.com/alanmugiwara)
-[![last update date](https://badges.pufler.dev/Updated/alanmugiwara/metedanca-tube-downlaoder?color=8A2BE2)](https://github.com/alanmugiwara)
-[![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/metedanca-tube-downlaoder.svg?color=8A2BE2)](https://github.com/alanmugiwara)
+[![create date](https://badges.pufler.dev/created/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
+[![last update date](https://badges.pufler.dev/Updated/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
+[![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/metedanca-tube-downloader.svg?color=8A2BE2)](https://github.com/alanmugiwara)
 
-[![contributors](https://img.shields.io/github/contributors/alanmugiwara/metedanca-tube-downlaoder?color=8A2BE2)](https://github.com/alanmugiwara)
-[![issues counter](https://img.shields.io/github/issues/alanmugiwara/metedanca-tube-downlaoder?color=8A2BE2)](https://github.com/alanmugiwara)
-[![repo size](https://img.shields.io/github/repo-size/alanmugiwara/metedanca-tube-downlaoder?color=8A2BE2)](https://github.com/alanmugiwara)
-[![directory size](https://img.shields.io/github/directory-file-count/alanmugiwara/metedanca-tube-downlaoder?color=8A2BE2)](https://github.com/alanmugiwara)
+[![contributors](https://img.shields.io/github/contributors/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
+[![issues counter](https://img.shields.io/github/issues/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
+[![repo size](https://img.shields.io/github/repo-size/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
+[![directory size](https://img.shields.io/github/directory-file-count/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
 
-## MeteDança Tube Downlaoder: Ferramenta gráfica para baixar vídeos do Youtube
+## MeteDança Tube Downloader: Ferramenta gráfica para baixar vídeos do Youtube
 
 MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python com PyQt6 para facilitar o download de vídeos do YouTube. Basta colar o link do vídeo e escolher onde salvá-lo!
 
@@ -39,7 +39,7 @@ MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python co
 
 2.  **Navegue até o diretório /source:**
    ```bash
-   cd metedanca-tube-downlaoder/source
+   cd metedanca-tube-downloader/source
    ```
 
 3. **Instale as dependências:**
