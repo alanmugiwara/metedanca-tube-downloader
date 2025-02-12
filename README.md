@@ -1,5 +1,5 @@
 [![made Language {generic badge}](https://img.shields.io/badge/Made%20with-Python-8A2BE2)](https://github.com/alanmugiwara)
-[![create date](https://badges.pufler.dev/created/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
+[![create date](https://badges.pufler.dev/created/alanmugiwara/metedanca-tube-downloader/?color=8A2BE2)](https://github.com/alanmugiwara)
 [![last update date](https://badges.pufler.dev/Updated/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
 [![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/metedanca-tube-downloader.svg?color=8A2BE2)](https://github.com/alanmugiwara)
 
@@ -10,20 +10,20 @@
 
 ## MeteDança Tube Downloader: Ferramenta gráfica para baixar vídeos do Youtube
 
-MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python com PyQt6 para facilitar o download de vídeos do YouTube. Basta colar o link do vídeo e escolher onde salvá-lo!
+MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python para facilitar o download de vídeos do YouTube. Basta colar o link do vídeo, clicar em baixar e escolher onde salvar!
 
 ## Funcionalidades
 
-- **Download de vídeos do YouTube:** Baixe vídeos do YouTube colando o link na interface.
-- **Interface gráfica:** Interface amigável e intuitiva com PyQt6.
-- **Seleção do local de salvamento:** Escolha o diretório onde o vídeo será salvo.
+- **Download de vídeos do YouTube:** Baixe vídeos do YouTube colando o link na interface;
+- **Interface gráfica:** Interface amigável e intuitiva com PyQt6;
+- **Seleção do local de salvamento:** Escolha o diretório onde o vídeo será salvo;
 - **Feedback sonoro:** Emite um som ao iniciar o download.
 
 ## Tecnologias Utilizadas
 
-- **Python:** Linguagem de programação principal.
-- **PyQt6:** Framework para criação da interface gráfica.
-- **pytubefix:** Biblioteca para interagir com o YouTube.
+- **Python:** Linguagem de programação principal;
+- **PyQt6:** Framework para criação da interface gráfica;
+- **pytubefix:** Biblioteca para interagir com o YouTube;
 - **playsound:** Biblioteca para reproduzir sons.
 
 # Demonstração
@@ -55,9 +55,9 @@ MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python co
      ```
 
 5. **Baixe um vídeo::**
-     - Najanlea da aplicação, cole o link do vídeo do YouTube no campo de texto.
-     - Clique em "Baixar vídeo do youtube
-     - Uma janela será aberta para você escolher onde salvar o vídeo.
+     - Na janlea da aplicação, cole o link do vídeo do YouTube no campo de texto;
+     - Clique em "Baixar vídeo do youtube;
+     - Uma janela será aberta para você escolher onde salvar o vídeo;
      - O download será iniciado e o vídeo será salvo no local escolhido.
 
 ## Estrutura do Código
@@ -70,29 +70,29 @@ MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python co
 
 > ALGORITIMO:
 > 
-> Passo 1: Criar a janela principal da aplicação (home_screen).
+> Passo 1: Criar a janela principal da aplicação (home_screen);
 > 
-> Passo 2: Adicionar um campo de entrada de texto (QLineEdit) para o link do vídeo.
+> Passo 2: Adicionar um campo de entrada de texto (QLineEdit) para o link do vídeo;
 > 
-> Passo 3: Adicionar um botão (QPushButton) para iniciar o download.
+> Passo 3: Adicionar um botão (QPushButton) para iniciar o download;
 > 
-> Passo 4: Adicionar uma imagem (QLabel) para o visual da aplicação.
+> Passo 4: Adicionar uma imagem (QLabel) para o visual da aplicação;
 > 
-> Passo 5: Adicionar um rodapé (QLabel) com créditos.
+> Passo 5: Adicionar um rodapé (QLabel) com créditos;
 > 
 > Passo 6: Implementar a função de download que:
 >
-> 6.1 - Abre um diálogo para escolher o local de salvamento.
+> 6.1 - Abre um diálogo para escolher o local de salvamento;
 >
-> 6.2 - Toca um som de clique.
+> 6.2 - Toca um som de clique;
 >
-> 6.3 - Extrai o link do vídeo do campo de texto.
+> 6.3 - Extrai o link do vídeo do campo de texto;
 >
-> 6.4 - Utiliza pytubefix para baixar o vídeo na maior resolução.
+> 6.4 - Utiliza pytubefix para baixar o vídeo na maior resolução;
 >
-> Passo 7: Conectar o clique do botão à função de download.
+> Passo 7: Conectar o clique do botão à função de download;
 >
-> Passo 8: Exibir a janela principal.
+> Passo 8: Exibir a janela principal;
 
 Para dúvidas, sugestões ou problemas, entre em contato. Álan Cruz:
 
