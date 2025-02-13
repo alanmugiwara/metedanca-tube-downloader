@@ -185,3 +185,4 @@ pyrightconfig.json
 
 # personal files
 *.txt
+!requeriments.txt
