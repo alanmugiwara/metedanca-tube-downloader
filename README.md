@@ -1,6 +1,6 @@
 [![made Language {generic badge}](https://img.shields.io/badge/Made%20with-Python-8A2BE2)](https://github.com/alanmugiwara)
 [![create date](https://badges.pufler.dev/created/alanmugiwara/metedanca-tube-downloader/?color=8A2BE2)](https://github.com/alanmugiwara)
-[![last update date](https://badges.pufler.dev/Updated/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
+[![last update date](https://badges.pufler.dev/Updated/alanmugiwara/metedanca-tube-downloader/?color=8A2BE2)](https://github.com/alanmugiwara)
 [![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/metedanca-tube-downloader.svg?color=8A2BE2)](https://github.com/alanmugiwara)
 
 [![contributors](https://img.shields.io/github/contributors/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
