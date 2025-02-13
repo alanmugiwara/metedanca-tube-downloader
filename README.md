@@ -21,7 +21,7 @@ MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python pa
 
 ## Tecnologias Utilizadas
 
-- **Python:** Linguagem de programação principal;
+- **Python 3.13.2:** Linguagem de programação utilizada;
 - **PyQt6:** Framework para criação da interface gráfica;
 - **pytubefix:** Biblioteca para interagir com o YouTube;
 - **playsound:** Biblioteca para reproduzir sons.
@@ -61,13 +61,15 @@ MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python pa
      - O download será iniciado e o vídeo será salvo no local escolhido.
 
 ## Estrutura do Código
-
+>
 > O QUE FOI UTILIZADO?
-
-> 1.Bibliotecas (pytubefix, PyQt6, playsound,  sys)
-> 2. Classes (QApplication, QWidget, QPushButton, QLineEdit, QLabel, QFileDialog)
-> 3. Funções
-
+>
+> 1: Bibliotecas (pytubefix, PyQt6, playsound, sys)
+> 
+> 2: Classes (QApplication, QWidget, QPushButton, QLineEdit, QLabel, QFileDialog)
+>
+> 3: Funções
+>
 > ALGORITIMO:
 > 
 > Passo 1: Criar a janela principal da aplicação (home_screen);
@@ -88,7 +90,7 @@ MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python pa
 >
 > 6.3 - Extrai o link do vídeo do campo de texto;
 >
-> 6.4 - Utiliza pytubefix para baixar o vídeo na maior resolução;
+> 6.4 - Utiliza pytubefix para baixar o vídeo na maior resolução que posusua áudio atrelado ao vídeo;
 >
 > Passo 7: Conectar o clique do botão à função de download;
 >
