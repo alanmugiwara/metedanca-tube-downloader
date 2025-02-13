@@ -1,12 +1,12 @@
 [![made Language {generic badge}](https://img.shields.io/badge/Made%20with-Python-8A2BE2)](https://github.com/alanmugiwara)
-[![create date](https://badges.pufler.dev/created/alanmugiwara/metedanca-tube-downloader/?color=8A2BE2)](https://github.com/alanmugiwara)
-[![last update date](https://badges.pufler.dev/Updated/alanmugiwara/metedanca-tube-downloader/?color=8A2BE2)](https://github.com/alanmugiwara)
-[![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/metedanca-tube-downloader.svg?color=8A2BE2)](https://github.com/alanmugiwara)
+[![Created Badge](https://badges.pufler.dev/created/alanmugiwara/metedanca-tube-downloader?color=blueviolet)](https://github.com/alanmugiwara)
+[![last update date](https://badges.pufler.dev/Updated/alanmugiwara/metedanca-tube-downloader/?color=blueviolet)](https://github.com/alanmugiwara)
+[![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/metedanca-tube-downloader.svg?color=blueviolet)](https://github.com/alanmugiwara)
 
 [![contributors](https://img.shields.io/github/contributors/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
 [![issues counter](https://img.shields.io/github/issues/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
 [![repo size](https://img.shields.io/github/repo-size/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
-[![directory size](https://img.shields.io/github/directory-file-count/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
+[![directory files](https://img.shields.io/github/directory-file-count/alanmugiwara/metedanca-tube-downloader?color=8A2BE2)](https://github.com/alanmugiwara)
 
 ## MeteDança Tube Downloader: Ferramenta gráfica para baixar vídeos do Youtube
 
@@ -22,9 +22,10 @@ MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python pa
 ## Tecnologias Utilizadas
 
 - **Python 3.13.2:** Linguagem de programação utilizada;
-- **PyQt6:** Framework para criação da interface gráfica;
+- **PyQt6:** Biblioteca para criação da interface gráfica;
 - **pytubefix:** Biblioteca para interagir com o YouTube;
 - **playsound:** Biblioteca para reproduzir sons.
+- **sys:** Biblioteca usada para integrar o interpretador Python e o ambiente de execução.
 
 # Demonstração
 ![Demonsraoção](https://github.com/alanmugiwara/alanmugiwara.github.io/blob/main/img/demo.gif?raw=true)
