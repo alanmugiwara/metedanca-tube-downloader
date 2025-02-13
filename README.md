@@ -24,7 +24,7 @@ MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python pa
 - **Python 3.13.2:** Linguagem de programação utilizada;
 - **PyQt6:** Biblioteca para criação da interface gráfica;
 - **pytubefix:** Biblioteca para interagir com o YouTube;
-- **playsound:** Biblioteca para reproduzir sons.
+- **playsound:** Biblioteca para reproduzir sons;
 - **sys:** Biblioteca usada para integrar o interpretador Python e o ambiente de execução.
 
 # Demonstração
@@ -44,7 +44,6 @@ MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python pa
    ```
 
 3. **Instale todas as dependências necessárias:**
-   - Navegue até o diretório do projeto e compile o código:
      ```bash
      pip install -r requirements.txt
      ```
@@ -72,29 +71,29 @@ MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python pa
 >
 > ALGORITIMO:
 > 
-> Passo 1: Criar a janela principal da aplicação (home_screen);
+> Passo 01: Criar a janela principal da aplicação (home_screen);
 > 
-> Passo 2: Adicionar um campo de entrada de texto (QLineEdit) para o link do vídeo;
+> Passo 02: Adicionar um campo de entrada de texto (QLineEdit) para o link do vídeo;
 > 
-> Passo 3: Adicionar um botão (QPushButton) para iniciar o download;
+> Passo 03: Adicionar um botão (QPushButton) para iniciar o download;
 > 
-> Passo 4: Adicionar uma imagem (QLabel) para o visual da aplicação;
+> Passo 04: Adicionar uma imagem (QLabel) para o visual da aplicação;
 > 
-> Passo 5: Adicionar um rodapé (QLabel) com créditos;
+> Passo 05: Adicionar um rodapé (QLabel) com créditos;
 > 
-> Passo 6: Implementar a função de download que:
+> Passo 06: Implementar a função de download que:
 >
-> 6.1 - Abre um diálogo para escolher o local de salvamento;
+> Passo 07: Abre um diálogo para escolher o local de salvamento;
 >
-> 6.2 - Toca um som de clique;
+> Passo 08: Toca um som de clique;
 >
-> 6.3 - Extrai o link do vídeo do campo de texto;
+> Passo 09: Extrai o link do vídeo do campo de texto;
 >
-> 6.4 - Utiliza pytubefix para baixar o vídeo na maior resolução que posusua áudio atrelado ao vídeo;
+> Passo 10: Utiliza pytubefix para baixar o vídeo na maior resolução que posusua áudio atrelado ao vídeo;
 >
-> Passo 7: Conectar o clique do botão à função de download;
+> Passo 11: Conectar o clique do botão à função de download;
 >
-> Passo 8: Exibir a janela principal;
+> Passo 12: Exibir a janela principal;
 
 Para dúvidas, sugestões ou problemas, entre em contato. Álan Cruz:
 
