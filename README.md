@@ -89,7 +89,7 @@ MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python pa
 >
 > Passo 09: Extrai o link do vídeo do campo de texto;
 >
-> Passo 10: Utiliza pytubefix para baixar o vídeo na maior resolução que posusua áudio atrelado ao vídeo;
+> Passo 10: Utiliza pytubefix para baixar o vídeo na maior resolução que possua áudio atrelado ao vídeo;
 >
 > Passo 11: Conectar o clique do botão à função de download;
 >
