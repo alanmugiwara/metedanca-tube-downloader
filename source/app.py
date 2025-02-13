@@ -47,7 +47,7 @@ def home_screen():
         video_url = barra_de_input.text()  # Puxa a URL do vídeo
         video_downloader = YouTube(video_url)  # Cria um objeto YouTube com a URL do vídeo.
         stream = video_downloader.streams.get_highest_resolution() # Obtém o stream de vídeo na maior resolução disponível que inclua áudio.
-        stream.download(saida=save_path)  # Inicia o download.
+        stream.download(output_path=save_path)  # Inicia o download na pasta definida.
         
         
     download_button.clicked.connect(download)  # Conecta o sinal 'clicked' do botão à função 'download', para que ela seja chamada quando o botão for clicado.
