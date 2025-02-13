@@ -42,19 +42,18 @@ MeteDança Tube Downloader é uma aplicação gráfica desenvolvida em Python pa
    cd metedanca-tube-downloader/source
    ```
 
-3. **Instale as dependências:**
+3. **Instale todas as dependências necessárias:**
    - Navegue até o diretório do projeto e compile o código:
-
      ```bash
      pip install -r requirements.txt
      ```
-
+     
 4. **Execute o Programa:**
      ```bash
      app.py
      ```
-
-5. **Baixe um vídeo::**
+     
+5. **Baixe um vídeo:**
      - Na janlea da aplicação, cole o link do vídeo do YouTube no campo de texto;
      - Clique em "Baixar vídeo do youtube;
      - Uma janela será aberta para você escolher onde salvar o vídeo;
